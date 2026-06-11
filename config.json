@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "active": true,
+  "selectors": {
+    "findTickets": "[data-testid='findTicketsBtn']",
+    "findTicketsText": "Find Tickets",
+    "getTickets": "[data-bdd='offer-card-buy-button']",
+    "getTicketsText": "Get Tickets",
+    "searchAgain": "Search Again"
+  }
+}
